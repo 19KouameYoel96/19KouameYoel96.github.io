@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dangote.com	TRUE	/	FALSE	1999999999	ARRAffinity	6461b2031bd7f08beea38b4037ff8691b9084daa6e55aa934faa2ce233726a33
+www.dangote.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	6461b2031bd7f08beea38b4037ff8691b9084daa6e55aa934faa2ce233726a33
+www.dangote.com	TRUE	/	FALSE	1999999999	SameSite	None
+

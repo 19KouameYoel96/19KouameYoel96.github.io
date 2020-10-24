@@ -1,0 +1,15 @@
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.bite {
+margin-bottom: 25px;
+    font-size: 36px;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "MDLZ BITE TYPE";
+    letter-spacing: 1.2px;
+    color: #4f2170;
+}

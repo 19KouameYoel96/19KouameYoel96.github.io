@@ -1,0 +1,141 @@
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+.sub-heading {
+    display: none;
+}
+
+@media (max-width: 767.98px) {
+.table table td, .table table th {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    padding: 10px;
+	min-width: 140px;
+	}
+.table table tr {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+	}
+.table table td::before {
+    font-size: 14px;
+	margin-bottom: inherit;
+    }	
+.table table td:first-child {
+    padding-top: 15px;
+    }  
+.table table td:last-child {
+    padding-bottom: 15px;
+    }  
+#si_rw1_c1, #si_rw1_c2, #ei_rw1_c1, #ei_rw1_c2, #pi_rw1_c1, #pi_rw1_c2, #ss_rw1_c1, #ss_rw1_c2 {
+  border-bottom: 0px !important;
+   }
+.sub-heading {
+    text-transform: uppercase;
+    display: block;
+    font-family: "MDLZ BITE TYPE";
+    font-size: 14px;
+    font-weight: normal;
+   margin-bottom: inherit;
+  }
+}
+
+.table table {
+    width: auto;
+}
+
+.table table caption {
+    margin-bottom: 0px;
+}
+
+.table table td, .table table th {
+	min-width: 172px;
+}
+
+.table table th {
+    font-size: 20px;
+}
+
+.table table tr {
+    background-color: unset;
+    border: none;
+}
+.table table td {
+   
+    letter-spacing: 0.53px;
+	font-size: 14px;
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table table tr:nth-child(odd) td:first-child:before {
+    background-color: unset;
+}
+
+.table table tr:nth-child(odd) td:last-child:after {
+    background-color: inherit;
+}
+
+.table table tr:nth-child(odd) td:last-child:after {
+    background-color: white;
+}
+
+.table table td img {
+    vertical-align: middle;
+    border-style: none;
+	transform: scale(0.5);
+    -webkit-transform: scale(0.5); /* Saf3.1+, Chrome */
+     -moz-transform: scale(0.5); /* FF3.5+ */
+      -ms-transform: scale(0.5); /* IE9 */
+       -o-transform: scale(0.5); /* Opera 10.5+ */
+}
+
+.table table td .section-category {
+  color:white;padding:5px;font-weight:bold;
+}
+
+.bg-purple{
+  background-color:#4f2170;
+}
+.bg-orange{
+  background-color:#fd7e14;
+}
+.bg-green{
+  background-color:#28a745;
+}
+
+.table table td .hd-icon {
+  vertical-align: middle;
+}
+
+.table table td .hd-category {
+  vertical-align: middle;justify-content: center;background-color: white;font-weight: bold;font-size:18px;
+}
+
+.table table td .hd-goal {
+  background-color: white;
+}
+
+.table table td .hd-progress {
+  background-color: white;
+}
+
+.table table tr .rw-entry {
+  background-color: white;
+}
+
+.main-separator {
+  border-bottom: solid 1px !important;
+}
+
+.sec-separator {
+  border-bottom: 1px dashed darkgray !important;
+}
+
+.table-key {
+	font-size: small;
+}

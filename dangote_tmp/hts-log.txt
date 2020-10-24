@@ -1,0 +1,253 @@
+HTTrack3.49-2 launched on Wed, 21 Oct 2020 21:59:18 at https://www.dangote.com/
+(httrack -w https://www.dangote.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/sustain.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/found.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/internal-hero.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/inner-found.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/career1.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/fine.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/aliko.png (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/dangote/wp-content/themes/dangote/assets/img/eaglebg.svg (from https://www.dangote.com/wp-content/themes/dangote/style.css?ver=111)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/wp-content/themes/dangote/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://www.dangote.com/wp-content/themes/dangote/assets/css/font-awesome.min.css?ver=102)
+22:08:14	Error: 	"Not Found" (404) at link https://www.dangote.com/wp-content/themes/dangote/assets/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://www.dangote.com/wp-content/themes/dangote/assets/css/font-awesome.min.css?ver=102)
+22:08:14	Warning: 	Moved Permanently for https://www.dangote.com/?p=7
+22:08:14	Warning: 	File has moved from https://www.dangote.com/?p=7 to https://www.dangote.com/about-us/
+22:09:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=9
+22:09:46	Warning: 	File has moved from https://www.dangote.com/?p=9 to https://www.dangote.com/our-business/
+22:15:19	Warning: 	Moved Permanently for https://www.dangote.com/?p=11
+22:15:19	Warning: 	File has moved from https://www.dangote.com/?p=11 to https://www.dangote.com/sustainability/
+22:15:19	Warning: 	Moved Permanently for https://www.dangote.com/?p=13
+22:15:19	Warning: 	File has moved from https://www.dangote.com/?p=13 to https://www.dangote.com/investor-relations/
+22:15:36	Warning: 	Moved Permanently for https://www.dangote.com/?p=36
+22:15:36	Warning: 	File has moved from https://www.dangote.com/?p=36 to https://www.dangote.com/foundation/
+22:16:05	Warning: 	Moved Permanently for https://www.dangote.com/?p=28
+22:16:05	Warning: 	File has moved from https://www.dangote.com/?p=28 to https://www.dangote.com/news/
+22:16:23	Warning: 	Moved Permanently for https://www.dangote.com/events-gallery/
+22:16:23	Warning: 	File has moved from https://www.dangote.com/events-gallery/ to https://www.dangote.com/gallery/events-gallery/
+22:16:23	Warning: 	Moved Permanently for https://www.dangote.com/gallery/foundation-gallery/
+22:16:23	Warning: 	File has moved from https://www.dangote.com/gallery/foundation-gallery/ to https://www.dangote.com/foundation-gallery/
+22:16:53	Warning: 	Moved Permanently for https://www.dangote.com/?p=38
+22:16:53	Warning: 	File has moved from https://www.dangote.com/?p=38 to https://www.dangote.com/career/
+22:16:53	Warning: 	Moved Permanently for https://www.dangote.com/?p=41
+22:16:53	Warning: 	File has moved from https://www.dangote.com/?p=41 to https://www.dangote.com/contact/
+22:16:53	Warning: 	Moved Permanently for https://www.dangote.com/?p=628
+22:16:53	Warning: 	File has moved from https://www.dangote.com/?p=628 to https://www.dangote.com/government-endorses-new-dangote-cement-millionaire-promo/
+22:17:25	Warning: 	Moved Permanently for https://www.dangote.com/?p=219
+22:17:25	Warning: 	File has moved from https://www.dangote.com/?p=219 to https://www.dangote.com/dangote-group-targets-30-billion-turnover-in-two-years-report/
+22:17:25	Warning: 	Moved Permanently for https://www.dangote.com/?p=644
+22:17:25	Warning: 	File has moved from https://www.dangote.com/?p=644 to https://www.dangote.com/2020-h1-dangote-cement-rakes-in-n162-9bn-profits-in-6-months/
+22:17:41	Warning: 	Moved Permanently for https://www.dangote.com/?p=602
+22:17:41	Warning: 	File has moved from https://www.dangote.com/?p=602 to https://www.dangote.com/dangote-exports-clinker-abroad-boosts-fgs-forex-drive/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=515
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=515 to https://www.dangote.com/q1-dangote-cement-records-strong-performance/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=505
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=505 to https://www.dangote.com/dangote-cement-donates-35-security-cars-to-lagos-state-security-fund/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=654
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=654 to https://www.dangote.com/dangote-cement-produces-new-millionaire-entrepreneurs/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=34
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=34 to https://www.dangote.com/cement/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=110
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=110 to https://www.dangote.com/sugar/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=3
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=3 to https://www.dangote.com/privacy-policy/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/popper.js (from https://www.dangote.com/wp-content/themes/dangote/assets/js/bootstrap.min.js)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=52
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=52 to https://www.dangote.com/about-us/aliko-dangote/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/aliko-dangote/about-us (from https://www.dangote.com/about-us/aliko-dangote/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/aliko-dangote/foundation (from https://www.dangote.com/about-us/aliko-dangote/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=241
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=241 to https://www.dangote.com/about-us/sani-dangote/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/sani-dangote/about-us (from https://www.dangote.com/about-us/sani-dangote/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/sani-dangote/foundation (from https://www.dangote.com/about-us/sani-dangote/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=245
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=245 to https://www.dangote.com/about-us/halima-aliko-dangote/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/halima-aliko-dangote/about-us (from https://www.dangote.com/about-us/halima-aliko-dangote/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/halima-aliko-dangote/foundation (from https://www.dangote.com/about-us/halima-aliko-dangote/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=248
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=248 to https://www.dangote.com/about-us/abdu-dantata/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/abdu-dantata/about-us (from https://www.dangote.com/about-us/abdu-dantata/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/abdu-dantata/foundation (from https://www.dangote.com/about-us/abdu-dantata/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=251
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=251 to https://www.dangote.com/about-us/olakunle-alake/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/olakunle-alake/about-us (from https://www.dangote.com/about-us/olakunle-alake/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/olakunle-alake/foundation (from https://www.dangote.com/about-us/olakunle-alake/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=257
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=257 to https://www.dangote.com/about-us/devakumar-v-g-edwin/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/devakumar-v-g-edwin/about-us (from https://www.dangote.com/about-us/devakumar-v-g-edwin/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/devakumar-v-g-edwin/foundation (from https://www.dangote.com/about-us/devakumar-v-g-edwin/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=261
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=261 to https://www.dangote.com/about-us/mansur-ahmed/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/mansur-ahmed/about-us (from https://www.dangote.com/about-us/mansur-ahmed/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/mansur-ahmed/foundation (from https://www.dangote.com/about-us/mansur-ahmed/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=264
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=264 to https://www.dangote.com/about-us/sada-ladan-baki/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/sada-ladan-baki/about-us (from https://www.dangote.com/about-us/sada-ladan-baki/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/sada-ladan-baki/foundation (from https://www.dangote.com/about-us/sada-ladan-baki/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=267
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=267 to https://www.dangote.com/about-us/adenike-fajemirokun/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/adenike-fajemirokun/about-us (from https://www.dangote.com/about-us/adenike-fajemirokun/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/about-us/adenike-fajemirokun/foundation (from https://www.dangote.com/about-us/adenike-fajemirokun/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=271
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=271 to https://www.dangote.com/our-business/cement/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/cement/about-us (from https://www.dangote.com/our-business/cement/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/cement/our-business (from https://www.dangote.com/our-business/cement/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/cement/foundation (from https://www.dangote.com/our-business/cement/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/cement/gallery/infrastructure-gallery (from https://www.dangote.com/our-business/cement/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=279
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=279 to https://www.dangote.com/our-business/sugar-refining/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/sugar-refining/about-us (from https://www.dangote.com/our-business/sugar-refining/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/sugar-refining/our-business (from https://www.dangote.com/our-business/sugar-refining/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/sugar-refining/foundation (from https://www.dangote.com/our-business/sugar-refining/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/sugar-refining/gallery/infrastructure-gallery (from https://www.dangote.com/our-business/sugar-refining/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=288
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=288 to https://www.dangote.com/our-business/salt-seasonings/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/salt-seasonings/about-us (from https://www.dangote.com/our-business/salt-seasonings/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/salt-seasonings/our-business (from https://www.dangote.com/our-business/salt-seasonings/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/salt-seasonings/foundation (from https://www.dangote.com/our-business/salt-seasonings/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/salt-seasonings/gallery/infrastructure-gallery (from https://www.dangote.com/our-business/salt-seasonings/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=294
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=294 to https://www.dangote.com/our-business/fertilizer/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/fertilizer/about-us (from https://www.dangote.com/our-business/fertilizer/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/fertilizer/our-business (from https://www.dangote.com/our-business/fertilizer/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/fertilizer/foundation (from https://www.dangote.com/our-business/fertilizer/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=298
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=298 to https://www.dangote.com/our-business/infrastructure/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/infrastructure/about-us (from https://www.dangote.com/our-business/infrastructure/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/infrastructure/our-business (from https://www.dangote.com/our-business/infrastructure/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/infrastructure/foundation (from https://www.dangote.com/our-business/infrastructure/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=301
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=301 to https://www.dangote.com/our-business/rice-farming/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/rice-farming/about-us (from https://www.dangote.com/our-business/rice-farming/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/rice-farming/our-business (from https://www.dangote.com/our-business/rice-farming/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/rice-farming/foundation (from https://www.dangote.com/our-business/rice-farming/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=309
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=309 to https://www.dangote.com/our-business/oil-and-gas/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/oil-and-gas/about-us (from https://www.dangote.com/our-business/oil-and-gas/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/oil-and-gas/our-business (from https://www.dangote.com/our-business/oil-and-gas/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/oil-and-gas/foundation (from https://www.dangote.com/our-business/oil-and-gas/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=312
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=312 to https://www.dangote.com/our-business/energy/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/energy/about-us (from https://www.dangote.com/our-business/energy/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/energy/our-business (from https://www.dangote.com/our-business/energy/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/energy/foundation (from https://www.dangote.com/our-business/energy/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=315
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=315 to https://www.dangote.com/our-business/petrochemicals/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/petrochemicals/about-us (from https://www.dangote.com/our-business/petrochemicals/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/petrochemicals/our-business (from https://www.dangote.com/our-business/petrochemicals/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/petrochemicals/foundation (from https://www.dangote.com/our-business/petrochemicals/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=318
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=318 to https://www.dangote.com/our-business/polysacks/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/polysacks/about-us (from https://www.dangote.com/our-business/polysacks/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/polysacks/our-business (from https://www.dangote.com/our-business/polysacks/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/polysacks/foundation (from https://www.dangote.com/our-business/polysacks/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=321
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=321 to https://www.dangote.com/our-business/real-estate/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/real-estate/about-us (from https://www.dangote.com/our-business/real-estate/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/real-estate/our-business (from https://www.dangote.com/our-business/real-estate/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/real-estate/foundation (from https://www.dangote.com/our-business/real-estate/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=324
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=324 to https://www.dangote.com/our-business/mining/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/mining/about-us (from https://www.dangote.com/our-business/mining/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/mining/our-business (from https://www.dangote.com/our-business/mining/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/mining/foundation (from https://www.dangote.com/our-business/mining/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=327
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=327 to https://www.dangote.com/our-business/logistics/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/logistics/about-us (from https://www.dangote.com/our-business/logistics/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/logistics/our-business (from https://www.dangote.com/our-business/logistics/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/logistics/foundation (from https://www.dangote.com/our-business/logistics/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=330
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=330 to https://www.dangote.com/our-business/maritime/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/maritime/about-us (from https://www.dangote.com/our-business/maritime/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/maritime/our-business (from https://www.dangote.com/our-business/maritime/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/maritime/foundation (from https://www.dangote.com/our-business/maritime/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=338
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=338 to https://www.dangote.com/our-business/automotive/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/automotive/about-us (from https://www.dangote.com/our-business/automotive/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/automotive/our-business (from https://www.dangote.com/our-business/automotive/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/automotive/foundation (from https://www.dangote.com/our-business/automotive/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=401
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=401 to https://www.dangote.com/our-business/tomatoe-processing/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/tomatoe-processing/about-us (from https://www.dangote.com/our-business/tomatoe-processing/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/tomatoe-processing/our-business (from https://www.dangote.com/our-business/tomatoe-processing/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/tomatoe-processing/foundation (from https://www.dangote.com/our-business/tomatoe-processing/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=405
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=405 to https://www.dangote.com/our-business/dangote-academy/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/about-us (from https://www.dangote.com/our-business/dangote-academy/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/our-business (from https://www.dangote.com/our-business/dangote-academy/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/foundation (from https://www.dangote.com/our-business/dangote-academy/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=673
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=673 to https://www.dangote.com/our-business/dangote-academy/short-courses/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/short-courses/about-us (from https://www.dangote.com/our-business/dangote-academy/short-courses/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/short-courses/our-business (from https://www.dangote.com/our-business/dangote-academy/short-courses/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/our-business/dangote-academy/short-courses/foundation (from https://www.dangote.com/our-business/dangote-academy/short-courses/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=659
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=659 to https://www.dangote.com/5-customers-win-n1m-cash-each-in-dangote-cement-promo-in-kano/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=422
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=422 to https://www.dangote.com/gallery/infrastructure-gallery/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/infrastructure-gallery/about-us (from https://www.dangote.com/gallery/infrastructure-gallery/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/infrastructure-gallery/our-business (from https://www.dangote.com/gallery/infrastructure-gallery/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/infrastructure-gallery/foundation (from https://www.dangote.com/gallery/infrastructure-gallery/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=49
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=49 to https://www.dangote.com/foundation/about-foundation/
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/foundation/about-foundation/about-us (from https://www.dangote.com/foundation/about-foundation/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/foundation/about-foundation/our-business (from https://www.dangote.com/foundation/about-foundation/)
+22:18:02	Error: 	"Not Found" (404) at link https://www.dangote.com/foundation/about-foundation/foundation (from https://www.dangote.com/foundation/about-foundation/)
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=499
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=499 to https://www.dangote.com/after-n2bn-donation-aliko-dangote-foundation-engages-54gene-laboratory-to-conduct-1000-covid-19-test-per-day-in-kano/
+22:18:02	Warning: 	Moved Permanently for https://www.dangote.com/?p=460
+22:18:02	Warning: 	File has moved from https://www.dangote.com/?p=460 to https://www.dangote.com/dangote-foundations-initiative-to-promote-healthy-africa/
+22:18:12	Warning: 	Moved Permanently for https://www.dangote.com/?p=457
+22:18:12	Warning: 	File has moved from https://www.dangote.com/?p=457 to https://www.dangote.com/aliko-dangote-foundation-uneca-and-gbchealth-advocate-public-private-sector-partnership-for-better-health-in-africa/
+22:18:12	Warning: 	Moved Permanently for https://www.dangote.com/?p=65
+22:18:12	Warning: 	File has moved from https://www.dangote.com/?p=65 to https://www.dangote.com/news/all-news/
+22:18:12	Error: 	"Not Found" (404) at link https://www.dangote.com/news/all-news/about-us (from https://www.dangote.com/news/all-news/)
+22:18:12	Error: 	"Not Found" (404) at link https://www.dangote.com/news/all-news/our-business (from https://www.dangote.com/news/all-news/)
+22:18:12	Error: 	"Not Found" (404) at link https://www.dangote.com/news/all-news/foundation (from https://www.dangote.com/news/all-news/)
+22:18:12	Warning: 	Moved Permanently for https://www.dangote.com/?p=639
+22:18:12	Warning: 	File has moved from https://www.dangote.com/?p=639 to https://www.dangote.com/2020-nascon-agm-shareholders-commend-nascons-prompt-dividend-payment/
+22:18:30	Warning: 	Moved Permanently for https://www.dangote.com/?p=420
+22:18:30	Warning: 	File has moved from https://www.dangote.com/?p=420 to https://www.dangote.com/gallery/our-business-gallery/
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/our-business-gallery/about-us (from https://www.dangote.com/gallery/our-business-gallery/)
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/our-business-gallery/our-business (from https://www.dangote.com/gallery/our-business-gallery/)
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/our-business-gallery/foundation (from https://www.dangote.com/gallery/our-business-gallery/)
+22:18:30	Warning: 	Moved Permanently for https://www.dangote.com/?p=418
+22:18:30	Warning: 	File has moved from https://www.dangote.com/?p=418 to https://www.dangote.com/gallery/sustainability-gallery/
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/sustainability-gallery/about-us (from https://www.dangote.com/gallery/sustainability-gallery/)
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/sustainability-gallery/our-business (from https://www.dangote.com/gallery/sustainability-gallery/)
+22:18:30	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/sustainability-gallery/foundation (from https://www.dangote.com/gallery/sustainability-gallery/)
+22:18:30	Warning: 	Moved Permanently for https://www.dangote.com/?p=47
+22:18:30	Warning: 	File has moved from https://www.dangote.com/?p=47 to https://www.dangote.com/all-videos/
+22:18:30	Warning: 	Moved Permanently for https://www.dangote.com/?p=508
+22:18:30	Warning: 	File has moved from https://www.dangote.com/?p=508 to https://www.dangote.com/dangote-cement-donates-25-patrol-cars-to-ogun-security-trust-fund/
+22:18:30	Warning: 	Moved Permanently for https://www.dangote.com/?p=60
+22:18:30	Warning: 	File has moved from https://www.dangote.com/?p=60 to https://www.dangote.com/dangote-refinery-project-to-boost-activities-in-downstream-says-lagos-chamber-of-commerce-and-industry-lcci/
+22:18:37	Warning: 	Moved Permanently for https://www.dangote.com/?p=378
+22:18:37	Warning: 	File has moved from https://www.dangote.com/?p=378 to https://www.dangote.com/example-video/
+22:18:37	Warning: 	Moved Permanently for https://www.dangote.com/?p=599
+22:18:37	Warning: 	File has moved from https://www.dangote.com/?p=599 to https://www.dangote.com/dangote-cement-sustains-54000-jobs-in-four-african-countries/
+22:18:37	Warning: 	Moved Permanently for https://www.dangote.com/?p=511
+22:18:37	Warning: 	File has moved from https://www.dangote.com/?p=511 to https://www.dangote.com/dangote-cements-debut-n100-billion-bond-issuance-has-been-oversubscribed-by-investors/
+22:18:37	Warning: 	Moved Permanently for https://www.dangote.com/?p=596
+22:18:37	Warning: 	File has moved from https://www.dangote.com/?p=596 to https://www.dangote.com/dangote-empowers-ogun-host-communities-provides-food-palliatives-scholarships/
+22:18:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=428
+22:18:46	Warning: 	File has moved from https://www.dangote.com/?p=428 to https://www.dangote.com/aliko-dangote-africas-richest-man-talk-to-al-jazeera/
+22:18:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=414
+22:18:46	Warning: 	File has moved from https://www.dangote.com/?p=414 to https://www.dangote.com/gallery/events-gallery/
+22:18:46	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/events-gallery/about-us (from https://www.dangote.com/gallery/events-gallery/)
+22:18:46	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/events-gallery/our-business (from https://www.dangote.com/gallery/events-gallery/)
+22:18:46	Error: 	"Not Found" (404) at link https://www.dangote.com/gallery/events-gallery/foundation (from https://www.dangote.com/gallery/events-gallery/)
+22:18:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=416
+22:18:46	Warning: 	File has moved from https://www.dangote.com/?p=416 to https://www.dangote.com/foundation-gallery/
+22:18:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=391
+22:18:46	Warning: 	File has moved from https://www.dangote.com/?p=391 to https://www.dangote.com/another-example-video/
+22:18:46	Warning: 	Moved Permanently for https://www.dangote.com/?p=425
+22:18:46	Warning: 	File has moved from https://www.dangote.com/?p=425 to https://www.dangote.com/mo-in-conversation-with-aliko-dangote/
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 30 seconds : 579 links scanned, 405 files written (52466948 bytes overall) [56478175 bytes received at 48271 bytes/sec], 1502107 bytes transferred using HTTP compression in 47 files, ratio 28%
+(104 errors, 138 warnings, 0 messages)

@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	oc4gx2nebbkxq4zytelt2qa1
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+prod-cd-origin.mondelezinternational.com	TRUE	/	FALSE	1999999999	ARRAffinity	3cec392df3fcfb68e67228055194266ae3a12171f7ca6e8c3f085e4caee9b12e
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	3cec392df3fcfb68e67228055194266ae3a12171f7ca6e8c3f085e4caee9b12e
+prod-cd-origin.mondelezinternational.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	ASLBSA	04bc3ebdbbbc1ef65a34425b78d53d840aafd28079f4b23b3a8ae527247fec4b
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	ASLBSACORS	04bc3ebdbbbc1ef65a34425b78d53d840aafd28079f4b23b3a8ae527247fec4b
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	samesite	none
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	-uJ59mDv4DV8oPvzA0kXR5pCuIz9xv55vloyNVmRE6Y16Kq337WFJss6ASkb6_XZd4qMRtB9ZEULFVFCyps792RmKU7Ds-xHGL8wpPzTzRQ1
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	5553e097c3684939847a0a07c93e0370|False
+www.mondelezinternational.com	TRUE	/	FALSE	1999999999	sxa_site	mondelez
+

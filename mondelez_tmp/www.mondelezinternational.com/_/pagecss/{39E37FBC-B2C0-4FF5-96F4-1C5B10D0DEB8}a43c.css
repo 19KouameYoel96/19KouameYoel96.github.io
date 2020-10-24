@@ -1,0 +1,28 @@
+table {
+width: 60%;
+}
+
+table, tbody, tr, th {
+border-collapse: collapse;
+border: 1px solid black;
+}
+
+tr.top {
+background-color: #4F2170;
+}
+
+th.left {
+border: 1px solid black; padding: 15px; width: 75%; text-align: center; color: #ffffff;
+}
+
+th.right {
+border: 1px solid black; padding: 15px; width: 25%; text-align: center; color: #ffffff;
+}
+
+h4 {
+color: #ffffff;
+}
+
+td {
+border: 1px solid black; padding: 15px; vertical-align: top; text-align: center;
+}
