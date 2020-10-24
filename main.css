@@ -30,4 +30,6 @@ li:hover {
 
 .ndpart {
     margin-top: 20%;
+    width: 100%;
+    display: flex;
 }
